@@ -1,0 +1,3 @@
+Ajouter gravitation
+Ajouter exemples numpy dans PE
+Ajouter .tex
